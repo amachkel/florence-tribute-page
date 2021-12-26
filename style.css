@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Open+Sans&display=swap');
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  position: relative;
+  background-color: #990000;
+}
+#title {
+  font-family: 'Limelight', cursive;
+  font-size: 6vw;
+  text-align: center;
+  margin: 30px;
+  padding: 30px;
+}
+.black-border {
+  border-color: #000000;
+  border-width: 10px;
+  border-style: solid;
+}
+#img-caption {
+  font-family: Open Sans;
+  font-size: 16px;
+  margin: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60vw;
+}
+#image {
+  max-width: 100%
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  font-size: 24px;
+  text-align: center;
+}
+.lungs {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#discography {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+footer {
+  font-size: 16px;
+  margin-top: 5rem;
+  text-align: center;
+}
+#tribute-link {
+  font-size: 16px;
+  
+}
+#discography div p {
+  text-align: center;
+}
